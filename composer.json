@@ -1,0 +1,14 @@
+{
+    "name": "res0144783/copa-do-mundo",
+    "autoload": {
+        "psr-4": {
+            "Res0144783\\CopaDoMundo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "herick"
+        }
+    ],
+    "require": {}
+}
